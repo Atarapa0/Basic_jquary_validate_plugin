@@ -880,6 +880,9 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf) format('truetype');
 }
+form {
+  padding: 50px;
+}
 .form_title_company {
   display: flex;
   justify-content: space-between;
